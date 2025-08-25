@@ -119,6 +119,7 @@ export default function Home() {
                         />
                       </div>
                       <div>
+                        ``
                         <p className="font-semibold">{testimonial.author}</p>
                         <p className="text-sm text-muted-foreground">
                           {testimonial.role}
